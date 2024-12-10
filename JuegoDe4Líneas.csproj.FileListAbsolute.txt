@@ -1,0 +1,17 @@
+C:\Users\winde\source\repos\JuegoDe4Líneas\JuegoDe4Líneas\obj\Debug\net8.0-windows\JuegoDe4Líneas.Form1.resources
+C:\Users\winde\source\repos\JuegoDe4Líneas\JuegoDe4Líneas\obj\Debug\net8.0-windows\JuegoDe4Líneas.FormJuego.resources
+C:\Users\winde\source\repos\JuegoDe4Líneas\JuegoDe4Líneas\obj\Debug\net8.0-windows\JuegoDe4Líneas.csproj.GenerateResource.cache
+C:\Users\winde\source\repos\JuegoDe4Líneas\JuegoDe4Líneas\obj\Debug\net8.0-windows\JuegoDe4Líneas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winde\source\repos\JuegoDe4Líneas\JuegoDe4Líneas\obj\Debug\net8.0-windows\JuegoDe4Líneas.AssemblyInfoInputs.cache
+C:\Users\winde\source\repos\JuegoDe4Líneas\JuegoDe4Líneas\obj\Debug\net8.0-windows\JuegoDe4Líneas.AssemblyInfo.cs
+C:\Users\winde\source\repos\JuegoDe4Líneas\JuegoDe4Líneas\obj\Debug\net8.0-windows\JuegoDe4Líneas.csproj.CoreCompileInputs.cache
+C:\Users\winde\source\repos\JuegoDe4Líneas\JuegoDe4Líneas\bin\Debug\net8.0-windows\JuegoDe4Líneas.exe
+C:\Users\winde\source\repos\JuegoDe4Líneas\JuegoDe4Líneas\bin\Debug\net8.0-windows\JuegoDe4Líneas.deps.json
+C:\Users\winde\source\repos\JuegoDe4Líneas\JuegoDe4Líneas\bin\Debug\net8.0-windows\JuegoDe4Líneas.runtimeconfig.json
+C:\Users\winde\source\repos\JuegoDe4Líneas\JuegoDe4Líneas\bin\Debug\net8.0-windows\JuegoDe4Líneas.dll
+C:\Users\winde\source\repos\JuegoDe4Líneas\JuegoDe4Líneas\bin\Debug\net8.0-windows\JuegoDe4Líneas.pdb
+C:\Users\winde\source\repos\JuegoDe4Líneas\JuegoDe4Líneas\obj\Debug\net8.0-windows\JuegoDe4Líneas.dll
+C:\Users\winde\source\repos\JuegoDe4Líneas\JuegoDe4Líneas\obj\Debug\net8.0-windows\refint\JuegoDe4Líneas.dll
+C:\Users\winde\source\repos\JuegoDe4Líneas\JuegoDe4Líneas\obj\Debug\net8.0-windows\JuegoDe4Líneas.pdb
+C:\Users\winde\source\repos\JuegoDe4Líneas\JuegoDe4Líneas\obj\Debug\net8.0-windows\JuegoDe4Líneas.genruntimeconfig.cache
+C:\Users\winde\source\repos\JuegoDe4Líneas\JuegoDe4Líneas\obj\Debug\net8.0-windows\ref\JuegoDe4Líneas.dll
